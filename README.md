@@ -3,6 +3,12 @@
 # Dataset
 Tesla Stock Price
 
+# Libraries
+Pandas
+NumPy
+Matplotlib
+Torch
+
 # Output
 LStm:
 ![image](https://github.com/user-attachments/assets/4143f89c-203c-4650-b10b-cba000b7a06a)
